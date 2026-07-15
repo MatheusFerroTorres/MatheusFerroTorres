@@ -1,6 +1,6 @@
 # 👨‍💻 Matheus Ferro Torres
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (SPTech)  
+🎓 Formado em Análise e Desenvolvimento de Sistemas (SPTech)  
 ⚙️ Interesse em automação, desenvolvimento e infraestrutura  
 
 ---
