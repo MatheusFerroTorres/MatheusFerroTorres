@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou estudante de ADS com foco em desenvolvimento e aplicação prática de tecnologia para resolver problemas reais.
+Formado em ADS com foco em desenvolvimento e aplicação prática de tecnologia para resolver problemas reais.
 
 Tenho experiência com projetos de automação, integração de sistemas e organização de ambientes de TI, sempre buscando melhorar processos e aumentar eficiência.
 
